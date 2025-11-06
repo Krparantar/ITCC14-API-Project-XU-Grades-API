@@ -1,8 +1,6 @@
 ## Project Milestones (XU Grades API)
 ## Members
-*Lists all your Members here and link their GitHub Profile* 
-<br/>
-Note: **GitHub Profile/name be must your full name or family name for grading** 
+
 1. [Evan Daniel F. Simbajon](https://github.com/eS1m)
 2. [Kier Andree A Parantar](https://github.com/Krparantar)
 3. [Khrystian Dominic B Awatin](https://github.com/roigufipd)
